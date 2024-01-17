@@ -1,4 +1,4 @@
-package org.example.Function;
+package org.example.function;
 
 import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.java.tuple.Tuple2;

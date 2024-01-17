@@ -1,4 +1,4 @@
-package org.example.Function;
+package org.example.function;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.util.Collector;
